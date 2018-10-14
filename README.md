@@ -6,6 +6,7 @@ Since IMDB data was scattered across multiple pages for each movie, MySQL was ch
 
 Below are the jupyter notebooks for analysis:
 - [BeautifulSoup code for scraping one movie](./1_imdb_webscrape.ipynb)
-- [Raw scraped dataset](https://github.com/ngovindaraj/P1_IMDB_WebScrape/blob/master/imdb_df_raw.csv)
-- [EDA ipynb](https://github.com/ngovindaraj/P1_IMDB_WebScrape/blob/master/imdb_cleanup.ipynb)
-- [Prediction ipynb](https://github.com/ngovindaraj/P1_IMDB_WebScrape/blob/master/imdb_regression.ipynb)
+- [Raw scraped dataset](./imdb_df_raw.csv)
+- [EDA ipynb](./2_imdb_cleanup.ipynb)
+- [Linear Regression ipynb](./3_imdb_regression_LR.ipynb)
+- [RandomForest Regression ipynb](./4_imdb_regression_RF.ipynb)

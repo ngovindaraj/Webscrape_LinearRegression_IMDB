@@ -85,7 +85,7 @@ name_id_ctr = 0
 
 
 def create_mysql_connection():
-    sql = MySql(user='ngovindaraj', passwd='the rock', db='imdb')
+    sql = MySql(user='ngovindaraj', passwd='**', db='imdb')
     sql.connect()
     return sql
 

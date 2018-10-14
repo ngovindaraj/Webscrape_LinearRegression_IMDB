@@ -1,4 +1,4 @@
-# Webscrape_LinearRegression_IMDB
+# Webscrape_Regression_IMDB
 
 For this first project, a webscraper was created using Python and BeautifulSoup, to scrape movie data from IMDB. Regression analysis was done on this dataset to predict box office gross. Below are the main steps performed:
 
